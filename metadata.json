@@ -1,0 +1,8 @@
+
+{
+  "name": "Chirkut - Anonymous Messaging",
+  "description": "A modern, mobile-focused anonymous messaging platform that allows users to receive anonymous feedback and messages through shareable links. Supports Dark/Light themes and English/Bangla languages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
